@@ -1,5 +1,5 @@
 <template>
-  <h1>Rocket</h1>
+  <h1>Rocket Change</h1>
 </template>
 <script>
 export default {
